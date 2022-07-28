@@ -1,0 +1,10 @@
+.table-wrapper{
+    height: 400px;
+    border: 1px solid rgb(202, 200, 200);
+}
+.table-input {
+    margin: 40px 0px !important;
+}
+.Table-row-bg{
+    background-color: darkturquoise;
+}
